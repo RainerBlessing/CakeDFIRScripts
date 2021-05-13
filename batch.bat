@@ -1,0 +1,6 @@
+rscript cake_rewards_euro_monthly.r
+rscript cake_rewards_dfi_daily.r
+rscript cake_rewards_euro_daily.r
+open rewards_euro_monthly.png
+open rewards_dfi_daily.png
+open rewards_euro_daily.png
